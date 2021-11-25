@@ -695,5 +695,3 @@ B+音乐厅,http://bp-caster.bestv.com.cn/469/1/video.m3u8
 泰上头,http://bp-caster.bestv.com.cn/490/1/video.m3u8
 介就是爱,http://bp-caster.bestv.com.cn/480/1/video.m3u8
 七彩戏剧,https://bp-caster.bestv.com.cn/250/1/video.m3u8
-[Group]
-groupName=📺电视直播
