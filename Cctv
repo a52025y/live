@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,CCTV 8电视剧
+http://39.136.18.77/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV 14少儿
+http://111.12.101.23:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1,CCTV 9纪录
+http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1,CCTV 5+ 体育赛事
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1,CCTV 1综合
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1,CCTV 2经济
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1,CCTV 4中文国际
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1,CCTV 5体育
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+#EXTINF:-1,CCTV 7国防军事
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1,CCTV 10科教
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1,CCTV 11戏曲
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1,CCTV 12社会与法
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1,CCTV 13新闻
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1,CCTV 15音乐
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1,CCTV 16奥林匹克
+http://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
+#EXTINF:-1,CCTV 17农业农村
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+#EXTINF:-1,CCTV 3综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1,CCTV 6电影
+http://39.134.39.39/PLTV/88888888/224/3221226148/index.m3u8
