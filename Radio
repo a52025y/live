@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,UFM_1003
+http://14073.live.streamtheworld.com:80/UFM_1003AAC.aac
+#EXTINF:-1,YES933
+http://22393.live.streamtheworld.com:80/YES933_PREM.aac
+#EXTINF:-1,CRI 海峡飞虹
+http://ls.qingting.fm/live/1734855.m3u8
+#EXTINF:-1,金鹰955电台
+http://live.xmcdn.com/live/405/64.m3u8
+#EXTINF:-1,CRI 南海之声
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1,CRI Hit FM FM88.7
+http://live.xmcdn.com/live/75/64.m3u8
+#EXTINF:-1,CNR 中国交通广播
+http://ls.qingting.fm/live/4985.m3u8
+#EXTINF:-1,CNR 娱乐广播
+http://live.xmcdn.com/live/42/64.m3u8
+#EXTINF:-1,CNR 香港之声
+http://live.xmcdn.com/live/44/64.m3u8
+#EXTINF:-1,CNR 华夏之声
+http://ls.qingting.fm/live/392.m3u8
+#EXTINF:-1,中国校园之声
+http://ls.qingting.fm/live/24229.m3u8
+#EXTINF:-1,深圳星光 FM99.1
+http://ls.qingting.fm/live/28132.m3u8
+#EXTINF:-1,深圳私家车广播 FM94.2
+http://live.xmcdn.com/live/265/64.m3u8
+#EXTINF:-1,深圳快乐1062(交通广播)
+http://ls.qingting.fm/live/1272.m3u8
+#EXTINF:-1,深圳飞扬音乐971
+http://ls.qingting.fm/live/1271.m3u8
+#EXTINF:-1,上海交通台 FM105.7
+http://live.xmcdn.com/live/59/64.m3u8
+#EXTINF:-1,上海故事广播 FM107.2
+http://rs-bj.ajmide.com/r_3/3.m3u8
+#EXTINF:-1,台湾古典音乐台Classical FM 97.7
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1,CRI 轻松调频 FM91.5
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1,AsiaFM亚洲音乐台
+https://lhttp.qingting.fm/live/4581/64k.mp3
+#EXTINF:-1,AsiaFM HD音乐台
+https://lhttp.qingting.fm/live/5022405/64k.mp3
+#EXTINF:-1,AsiaFM亚洲经典台
+https://lhttp.qingting.fm/live/5021912/64k.mp3
+#EXTINF:-1,中国校园之声
+https://lhttp.qingting.fm/live/20091/64k.mp3
+#EXTINF:-1,广东音乐之声
+http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+#EXTINF:-1,武汉音乐广播
+https://lhttp.qingting.fm/live/1297/64k.mp3
+#EXTINF:-1,湖南摩登音乐台FM975
+http://lhttp.qingting.fm/live/4980/64k.mp3
+#EXTINF:-1,杭州动听968音乐调频
+http://lhttp.qingting.fm/live/4866/64k.mp3
+#EXTINF:-1,苏州音乐广播
+https://lhttp.qingting.fm/live/2803/64k.mp3
+#EXTINF:-1,上海动感101音乐广播
+http://lhttp.qingting.fm/live/274/64k.mp3
+#EXTINF:-1,北京好音乐广播
+https://lhttp.qingting.fm/live/5021381/64k.mp3
+#EXTINF:-1,Hit FM流行音乐广播电台
+https://lhttp.qingting.fm/live/1007/64k.mp3
+#EXTINF:-1,新西兰华人之声FM104.2音乐台
+http://radio.936.nz:8000/fm994
+#EXTINF:-1,马来西亚MY FM音乐台
+http://astro1.rastream.com/myfm
