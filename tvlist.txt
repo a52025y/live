@@ -1,0 +1,208 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "UFM_1003",
+            "num": "00001",
+            "urllist": "http://14073.live.streamtheworld.com:80/UFM_1003AAC.aac"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "YES933",
+            "num": "00002",
+            "urllist": "http://22393.live.streamtheworld.com:80/YES933_PREM.aac"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CRI 海峡飞虹",
+            "num": "00003",
+            "urllist": "http://ls.qingting.fm/live/1734855.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金鹰955电台",
+            "num": "00004",
+            "urllist": "http://live.xmcdn.com/live/405/64.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CRI 南海之声",
+            "num": "00005",
+            "urllist": "http://sk.cri.cn/nhzs.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CRI Hit FM FM88.7",
+            "num": "00006",
+            "urllist": "http://live.xmcdn.com/live/75/64.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CNR 中国交通广播",
+            "num": "00007",
+            "urllist": "http://ls.qingting.fm/live/4985.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CNR 娱乐广播",
+            "num": "00008",
+            "urllist": "http://live.xmcdn.com/live/42/64.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CNR 香港之声",
+            "num": "00009",
+            "urllist": "http://live.xmcdn.com/live/44/64.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CNR 华夏之声",
+            "num": "00010",
+            "urllist": "http://ls.qingting.fm/live/392.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中国校园之声",
+            "num": "00011",
+            "urllist": "http://ls.qingting.fm/live/24229.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "深圳星光 FM99.1",
+            "num": "00012",
+            "urllist": "http://ls.qingting.fm/live/28132.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "深圳私家车广播 FM94.2",
+            "num": "00013",
+            "urllist": "http://live.xmcdn.com/live/265/64.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "深圳快乐1062(交通广播)",
+            "num": "00014",
+            "urllist": "http://ls.qingting.fm/live/1272.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "深圳飞扬音乐971",
+            "num": "00015",
+            "urllist": "http://ls.qingting.fm/live/1271.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "上海交通台 FM105.7",
+            "num": "00016",
+            "urllist": "http://live.xmcdn.com/live/59/64.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "上海故事广播 FM107.2",
+            "num": "00017",
+            "urllist": "http://rs-bj.ajmide.com/r_3/3.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台湾古典音乐台Classical FM 97.7",
+            "num": "00018",
+            "urllist": "http://59.120.88.155:8000/live.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CRI 轻松调频 FM91.5",
+            "num": "00019",
+            "urllist": "http://sk.cri.cn/915.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "AsiaFM亚洲音乐台",
+            "num": "00020",
+            "urllist": "https://lhttp.qingting.fm/live/4581/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "AsiaFM HD音乐台",
+            "num": "00021",
+            "urllist": "https://lhttp.qingting.fm/live/5022405/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "AsiaFM亚洲经典台",
+            "num": "00022",
+            "urllist": "https://lhttp.qingting.fm/live/5021912/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中国校园之声",
+            "num": "00023",
+            "urllist": "https://lhttp.qingting.fm/live/20091/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广东音乐之声",
+            "num": "00024",
+            "urllist": "http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "武汉音乐广播",
+            "num": "00025",
+            "urllist": "https://lhttp.qingting.fm/live/1297/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湖南摩登音乐台FM975",
+            "num": "00026",
+            "urllist": "http://lhttp.qingting.fm/live/4980/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "杭州动听968音乐调频",
+            "num": "00027",
+            "urllist": "http://lhttp.qingting.fm/live/4866/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "苏州音乐广播",
+            "num": "00028",
+            "urllist": "https://lhttp.qingting.fm/live/2803/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "上海动感101音乐广播",
+            "num": "00029",
+            "urllist": "http://lhttp.qingting.fm/live/274/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "北京好音乐广播",
+            "num": "00030",
+            "urllist": "https://lhttp.qingting.fm/live/5021381/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Hit FM流行音乐广播电台",
+            "num": "00031",
+            "urllist": "https://lhttp.qingting.fm/live/1007/64k.mp3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "新西兰华人之声FM104.2音乐台",
+            "num": "00032",
+            "urllist": "http://radio.936.nz:8000/fm994"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "马来西亚MY FM音乐台",
+            "num": "00033",
+            "urllist": "http://astro1.rastream.com/myfm"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "=未分组="
+        }
+    ]
+}
